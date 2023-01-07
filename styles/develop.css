@@ -34,3 +34,39 @@
         margin-left: 64px;
         padding:15px 55px;
      }
+     /* main styles */
+     
+main{
+    max-width: 1140px;
+    margin:0 auto;
+    padding-top: 100px;
+}
+.text-description{
+    font-size: 30px;
+    padding: 130px 300px;
+   
+   
+   
+}
+.section-sub-title{
+    display:flex;
+    justify-content: space-between;
+    color:#757575;
+    
+}
+
+.section-title{
+   margin-bottom: 10px;
+   font-weight: 700;
+   font-size: 80px;
+   color:black;
+   
+}
+.section-description{
+    margin-bottom:45px;
+   
+}
+main p{
+    padding: 5px;
+
+}
